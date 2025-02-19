@@ -8,7 +8,7 @@ from pypdf import PdfReader
 import re
 
 # OpenAI API Key (Replace with your own key)
-openai.api_key = OPENAI_API_KEY
+openai.api_key = "Your openai APi key"
 
 # Bot options
 bots = {
